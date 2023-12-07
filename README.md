@@ -1,4 +1,4 @@
-# Exportador de Senhas do Chrome - Projeto Arduino
+# Exportador de Senhas do Chrome - Projeto Arduino - Digispark
 
 Este projeto utiliza uma placa DigiSpark para automatizar o processo de exportação de senhas do Chrome e o envio por e-mail. A biblioteca DigiKeyboardPtBr é utilizada para simular entradas de teclado e executar uma série de ações.
 
